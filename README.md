@@ -5,8 +5,6 @@ SEO Tech Developer, Google Summer of Code Contributor, Undergraduate Research As
 
 My main interests are in software engineering, fintech, and applied machine learning. I enjoy building projects that are technically deep and have real-world impact, ranging from AI research to full-stack development and student-led initiatives.
 
----
-
 ## Technologies & Tools
 
 **Languages**  
@@ -53,7 +51,7 @@ My main interests are in software engineering, fintech, and applied machine lear
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=sadorno1&show_icons=true&hide=prs,issues,contribs&hide_rank=true&theme=tokyonight" alt="GitHub stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=sadorno1&show_icons=true&hide=issues,stars&hide_rank=true&theme=tokyonight" alt="GitHub stats" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadorno1&layout=compact&theme=tokyonight" alt="Top Languages" />
