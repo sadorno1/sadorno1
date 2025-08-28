@@ -1,4 +1,4 @@
-# Hi, I'm Samantha Adorno
+# Hi, I'm Samantha!
 
 I'm a junior at the University of Kansas, studying Computer Science with a minor in Business.  
 SEO Tech Developer | GSoC Contributor | Undergraduate Research Asisstant | President of Women in Computing at KU
@@ -22,8 +22,8 @@ My main interests are in software engineering, fintech, and applied machine lear
 ---
 
 ## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sadorno1&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sadorno1&layout=compact&theme=tokyonight)
 
 ---
 
