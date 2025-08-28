@@ -1,11 +1,9 @@
-# Hi, I'm Samantha!
+# Hi, I'm Samantha Adorno
 
-I'm a junior at the University of Kansas, studying Computer Science with a minor in Business.  
-SEO Tech Developer | GSoC Contributor | Undergraduate Research Asisstant | President of Women in Computing at KU
+Junior at the University of Kansas (CS + Business).  
+President of Women in Computing at KU, Undergraduate Research Assistant, and former Google Summer of Code contributor.
 
-My main interests are in software engineering, fintech, and applied machine learning. I enjoy building projects that are technically deep and have real-world impact, ranging from AI research to full-stack development and student-led initiatives.
-
----
+I’m interested in software engineering, fintech, and applied machine learning. I like building things that are technically solid and useful in the real world—from AI research to full-stack products and student-led initiatives.
 
 ## Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -19,17 +17,15 @@ My main interests are in software engineering, fintech, and applied machine lear
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
----
-
 ## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sadorno1&show_icons=true&hide=prs,issues,contribs&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sadorno1&layout=compact&theme=tokyonight)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide=prs,issues,contribs&hide_rank=true&theme=tokyonight" alt="GitHub stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
----
-
-## Featured Projects
-- **Soccer Training App** – React Native app supporting KU Women’s Soccer team with structured training plans.  
-- **FitCheck** – Virtual closet and social fashion platform with AI-driven outfit recommendations.  
-- **InterVu** – AI-powered career preparation platform combining resume parsing, job tracking, and interview practice.  
-- **Research on Ice Sheet Layer Identification** – Applied AI to remote sensing data at the Center for Remote Sensing of Ice Sheets.  
-- **Google Summer of Code Project** – Optimized clustering algorithms to support participatory democracy platforms.  
