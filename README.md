@@ -22,7 +22,7 @@ My main interests are in software engineering, fintech, and applied machine lear
 ---
 
 ## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sadorno1&show_icons=true&theme=tokyonight)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sadorno1&show_icons=true&hide=prs,issues,contribs&theme=transparent)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sadorno1&layout=compact&theme=tokyonight)
 
 ---
