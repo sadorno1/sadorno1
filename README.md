@@ -1,6 +1,5 @@
 # Hi, I'm Samantha Adorno!
 
-**Junior at the University of Kansas (Computer Science + Business)**  
 My interests include **software engineering, fintech, and applied machine learning**.  
 I enjoy working on projects that are both technically deep and impactful, from AI research to full-stack applications and student-led initiatives.
 
