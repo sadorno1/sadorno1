@@ -1,9 +1,9 @@
 # Hi, I'm Samantha Adorno
 
 Junior at the University of Kansas (CS + Business).  
-President of Women in Computing at KU, Undergraduate Research Assistant, and former Google Summer of Code contributor.
+SEO Tech Developer, Google Summer of Code contributor, Undergraduate Research Assistant, and President of Women in Computing at KU
 
-I’m interested in software engineering, fintech, and applied machine learning. I like building things that are technically solid and useful in the real world—from AI research to full-stack products and student-led initiatives.
+My main interests are in software engineering, fintech, and applied machine learning. I enjoy building projects that are technically deep and have real-world impact, ranging from AI research to full-stack development and student-led initiatives.
 
 ## Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -21,10 +21,11 @@ I’m interested in software engineering, fintech, and applied machine learning.
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide=prs,issues,contribs&hide_rank=true&theme=tokyonight" alt="GitHub stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=sadorno1&show_icons=true&hide=prs,issues,contribs&hide_rank=true&theme=tokyonight" alt="GitHub stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadorno1
+        &layout=compact&theme=tokyonight" alt="Top Languages" />
     </td>
   </tr>
 </table>
