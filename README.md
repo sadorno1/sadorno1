@@ -1,6 +1,6 @@
 # Hi, I'm Samantha Adorno!
 
-My interests include **software engineering, fintech, and applied machine learning**.  
+My interests include **software engineering, data science, and applied machine learning**.  
 I enjoy working on projects that are both technically deep and impactful, from AI research to full-stack applications and student-led initiatives.
 
 ## Technologies & Tools
